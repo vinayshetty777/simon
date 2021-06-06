@@ -1,1 +1,1 @@
-# simon
+# The Simon Game
